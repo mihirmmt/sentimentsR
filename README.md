@@ -1,4 +1,4 @@
-# sentimentsR
+# Whatsapp sentimentsR
 Sentimental Analysis of Whatsapp Group chat using R
 
 Go to your whatsapp group and select any group you want to do sentimental anaysis ;
